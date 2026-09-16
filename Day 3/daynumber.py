@@ -1,0 +1,15 @@
+day=int(input("Enter a week days: "))
+if day==1:
+    print("Monday")
+elif day==2:
+    print("Tuesday")
+elif day==3:
+    print("Wensday")
+elif day==4:
+    print("Thusday")
+elif day==5:
+    print("Friday")
+elif day==6:
+    print("Sturday")
+else:
+    print("Invalid number")
