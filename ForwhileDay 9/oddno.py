@@ -1,3 +1,2 @@
-for i in range (1 , 51):
-    if i % 2 != 0:
-        print(i)
+n1 = [1 , 2 , 3]
+print (3   not in n1 )
